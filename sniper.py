@@ -48,7 +48,7 @@ filename = "standard.json"
 file_path = os.path.join(directory, filename)
 with open(file_path) as json_file:
     standardAbi = json.load(json_file)
-
+//UPLOAD
 directory = './abi/'
 filename = "lp.json"
 file_path = os.path.join(directory, filename)
